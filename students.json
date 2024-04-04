@@ -1,0 +1,77 @@
+[
+    {
+      "SID": 1001,
+      "FirstName": "Harry",
+      "LastName": "Styles",
+      "Email": "harry@gmail.com",
+      "NearCity": "Kandy",
+      "Course": ["Foundation", "HND", "Degree"],
+      "Guardian": "James Cameron",
+      "Subjects": ["ETF", "ORDBMS", "OOP", "SE", "HCI", "IP"]
+    },
+    {
+      "SID": 1002,
+      "FirstName": "Emma",
+      "LastName": "Watson",
+      "Email": "emma@gmail.com",
+      "NearCity": "London",
+      "Course": ["HND"],
+      "Guardian": "John Watson",
+      "Subjects": ["ORDBMS", "OOP"]
+    },
+
+    {
+      "SID": 1003,
+      "FirstName": "Tom",
+      "LastName": "Holland",
+      "Email": "tom@gmail.com",
+      "NearCity": "Los Angeles",
+      "Course": ["Foundation", "HND"],
+      "Guardian": "Sarah Holland",
+      "Subjects": ["SE", "HCI"]
+    },
+
+    {
+      "SID": 1004,
+      "FirstName": "Lena",
+      "LastName": "Headey",
+      "Email": "lena@gmail.com",
+      "NearCity": "New York",
+      "Course": ["Degree"],
+      "Guardian": "David Headey",
+      "Subjects": ["ORDBMS", "OOP", "SE", "HCI", "IP"]
+    },
+    
+    {
+      "SID": 1005,
+      "FirstName": "Tom",
+      "LastName": "Hanks",
+      "Email": "tom@gmail.com",
+      "NearCity": "Los Angeles",
+      "Course": ["HND", "Degree"],
+      "Guardian": "John Hanks",
+      "Subjects": ["OOP", "SE", "HCI", "IP"]
+    },
+
+    {
+      "SID": 1006,
+      "FirstName": "Jennifer",
+      "LastName": "Lawrence",
+      "Email": "jennifer@gmail.com",
+      "NearCity": "Los Angeles",
+      "Course": ["Degree"],
+      "Guardian": "Karen Lawrence",
+      "Subjects": ["ORDBMS", "OOP"]
+    },
+
+    {
+      "SID": 1007,
+      "FirstName": "Chris",
+      "LastName": "Hemsworth",
+      "Email": "chris@gmail.com",
+      "NearCity": "Sydney",
+      "Course": ["Master's"],
+      "Guardian": "Craig Hemsworth",
+      "Subjects": [ "Foundation", "HND", "Degree"]
+    } 
+]
